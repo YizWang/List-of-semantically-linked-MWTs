@@ -49,6 +49,6 @@ In total we have 231 quatruplets which are made up of two SWTs and two MWTs. Acc
 
 Here is a sample of the dataset:
 
-![Screenshot](ex.jpeg)
+![Screenshot](dataset_exemple.jpg)
 
 The columns *SWT1* and *SWT2* represent two SWTs linked by the semantic relation. The columns *MWT1* and *MWT2* refer to the two MWTs generated from the two SWTs. The relationships between the SWTs (these relationships are also the inferred relationships between the MWTs) are noted in the column *Rel*. The column *Anno* represents the result of the annotation (1: positive; 0: negative).
