@@ -24,7 +24,30 @@ The corpus used for extracting MWT candidates is a specialized monolingual Frenc
 ### Reference for semantic relations ("RefProj.csv")
 
 To build the dataset by the semantic projection, we need a list of simple terms (SWT) connected by the semantic relation as a reference. We extracted 831 pairs of simple terms (nouns and adjectives) from the list proposed by [Colborne and Drouin](https://github.com/gbcolborne/TALN_2016) ("refCD.csv").
+Three types of relations are contained in the "RefPro" :
+* 
+* 
+*
 
 ## Different steps for generating the dataset
 
-## Sample of the dataset
+1. Extract all the MWT candidats which contain two content words by [TermSuite](http://termsuite.github.io);
+2. Form the MWTs pairs that share a common word and where the two other words are a pair of SWTs connected in "RefCD.csv";
+3. Delete the symmetries of the relationships (for exemple, only one of the symmetries *climat régional : climat local* and *climat local : climat régional* is kept ;
+4. Valid the term status of candidats ;
+5. Annotate the inferred relations by three annotators. 
+
+A more detailed description can be found in the paper mentionned above.
+
+## Statistics and a sample of the dataset
+
+|      | ANTI | HYP | QSYN |
+|------|------|-----|------|
+| Nbr  |  80  |  51 | 100  |
+
+In total we have 231 quatruplets which are made up of two SWTs and two MWTs. According to the annotation, there are 179 quatruplets where the inferred relation is preserved between the MWTs. That is, we have a total of 179 analogies. The small size of the dataset can be explained by the fact that many extracted terms are specific, such as *butterfly conservation*. Thus, only a fraction of the pairs have two candidates present in one of the resources.
+
+Here is a sample of the dataset:
+
+![Screenshot](screenshot.png)
+
