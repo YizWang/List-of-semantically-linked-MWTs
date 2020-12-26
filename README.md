@@ -2,6 +2,17 @@
 
 This is the repository of a dataset used for semantic relation acquisition between multiwords (MWTs) terms or analogy test. The necessary ressources for constructing the dataset are also uploaded in this Github, except for the corpus which is not allowed to be made public.
 
+- [Context](#context)
+- [Motivation](#motivation)
+- [Approche](#approche)
+- [Ressorces used for generating the dataset](#ressorces-used-for-generating-the-dataset)
+  * [Corpus](#corpus)
+  * [Reference for semantic relations ("RefProj.csv")](#reference-for-semantic-relations---refprojcsv--)
+- [Different steps for generating the dataset](#different-steps-for-generating-the-dataset)
+- [Statistics and a sample of the dataset](#statistics-and-a-sample-of-the-dataset)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Context
 
 The dataset is constructed as part of the Addicte project (Distributional analysis in specialized domain, ANR-17-CE23-0001), funded by the French National Research Agency (ANR). The dataset has been introduced in the paper "[A study of semantic projection from single word terms to multi-word terms in the environment domain](https://www.aclweb.org/anthology/2020.computerm-1.7/)", accepted by COMPUTERM 2020.
