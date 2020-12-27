@@ -27,15 +27,17 @@ The semantic projection, also known as semantic variant and often referred to as
 
 ## Ressorces used for generating the dataset
 
+### Corpus
+
 The corpus used for extracting MWT candidates is a specialized monolingual French corpus in the environment domain (ELRA-W0065) created in the framework of the [PANACEA project](http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-corpora). The corpus contains 35453 documents (about 50 million words) with different levels of specialization. The corpus has been preprocessed: extraction of the text, normalization of the characters, lemmatization with TreeTagger. 
 
 ### Reference for semantic relations ("RefProj.csv")
 
 To build the dataset by the semantic projection, we need a list of simple terms (SWT) connected by the semantic relation as a reference. We extracted 831 pairs of simple terms (nouns and adjectives) from the list proposed by [Colborne and Drouin](https://github.com/gbcolborne/TALN_2016) ("refCD.csv").
 Three types of relations are contained in the "RefPro" :
-* 
-* 
-*
+* ANTI: the opposite relation and the contrastive relation ;
+* QSYN: hyponyms and hypernyms ;
+* HYP: synonyms, quasi-synonyms ans cohyponyms.
 
 ## Different steps for generating the dataset
 
