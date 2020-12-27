@@ -40,11 +40,11 @@ Three types of relations are contained in the "RefPro" :
 * QSYN: hyponyms and hypernyms ;
 * HYP: synonyms, quasi-synonyms ans cohyponyms.
 
-## Different steps for generating the dataset
+## Different steps for generating the dataset ("data.csv")
 
 1. Extract all the MWT candidates which contain two content words by [TermSuite](http://termsuite.github.io);
 2. Form the MWTs pairs that share a common word and where the two other words are a pair of SWTs connected in "RefCD.csv";
-3. Delete the symmetries of the relationships (for example, only one of the symmetries *climat régional : climat local* and *climat local : climat régional* is kept ;
+3. Delete the symmetries of the relationships (for example, only one of the symmetries *climat régional : climat local* and *climat local : climat régional* is kept ("cantidate_pairs.csv") ;
 4. Valid the term status of candidates ;
 5. Annotate the inferred relations by three annotators. 
 
