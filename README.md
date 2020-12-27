@@ -6,6 +6,7 @@ This is the repository of a dataset used for semantic relation acquisition betwe
 - [Motivation](#motivation)
 - [Approche](#approche)
 - [Ressorces used for generating the dataset](#ressorces-used-for-generating-the-dataset)
+  * [Corpus](#corpus)
   * [Reference for semantic relations ("RefProj.csv")](#reference-for-semantic-relations---refprojcsv--)
 - [Different steps for generating the dataset](#different-steps-for-generating-the-dataset)
 - [Statistics and a sample of the dataset](#statistics-and-a-sample-of-the-dataset)
