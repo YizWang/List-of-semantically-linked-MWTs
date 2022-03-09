@@ -61,21 +61,13 @@ In total, we have 231 quadruplets, which are made up of two SWTs and two MWTs. A
 Here is a sample of the dataset:
 
 | SWT1	| SWT2	| MWT1	| MWT2	| Rel	| Anno |
-|------|------|-----|------|-----|------|
 | diminution |	croissance |	diminution de la vitesse |	vitesse de croissance |	ANTI |	0 |
-|------|------|-----|------|-----|------|
 | froid |	chaud |	air froid |	air chaud |	ANTI |	1 |
-|------|------|-----|------|-----|------|
 | piscicole |	agricole |	domaine piscicole |	domaine agricole |	ANTI |	1 |
-|------|------|-----|------|-----|------|
 | terre |	planète |	climat de la terre |	climat de la planète |	HYP |	0 |
-|------|------|-----|------|-----|------|
 | culture |	agriculture |	culture biologique |	agriculture biologique |	HYP |	1 |
-|------|------|-----|------|-----|------|
 | neige |	glace |	cristaux de neige |	cristaux de glace |	QSYN |	0 |
-|------|------|-----|------|-----|------|
 | protection |	conservation |	protection de l’espace |	conservation de l’espace |	QSYN |	1 |
-|------|------|-----|------|-----|------|
 | zone |	région |	zone arctique |	région arctique	 | QSYN |	1 |
 
 
