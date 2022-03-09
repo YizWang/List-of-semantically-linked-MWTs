@@ -60,6 +60,23 @@ In total, we have 231 quadruplets, which are made up of two SWTs and two MWTs. A
 
 Here is a sample of the dataset:
 
-![Screenshot](Images/dataset_exemple.jpg)
+| SWT1	| SWT2	| MWT1	| MWT2	| Rel	| Anno |
+|------|------|-----|------|-----|------|
+| diminution |	croissance |	diminution de la vitesse |	vitesse de croissance |	ANTI |	0 |
+|------|------|-----|------|-----|------|
+| froid |	chaud |	air froid |	air chaud |	ANTI |	1 |
+|------|------|-----|------|-----|------|
+| piscicole |	agricole |	domaine piscicole |	domaine agricole |	ANTI |	1 |
+|------|------|-----|------|-----|------|
+| terre |	planète |	climat de la terre |	climat de la planète |	HYP |	0 |
+|------|------|-----|------|-----|------|
+| culture |	agriculture |	culture biologique |	agriculture biologique |	HYP |	1 |
+|------|------|-----|------|-----|------|
+| neige |	glace |	cristaux de neige |	cristaux de glace |	QSYN |	0 |
+|------|------|-----|------|-----|------|
+| protection |	conservation |	protection de l’espace |	conservation de l’espace |	QSYN |	1 |
+|------|------|-----|------|-----|------|
+| zone |	région |	zone arctique |	région arctique	 | QSYN |	1 |
+
 
 The columns *SWT1* and *SWT2* represent two SWTs linked by the semantic relation. The columns *MWT1* and *MWT2* refer to the two MWTs generated from the two SWTs. The relationships between the SWTs (these relationships are also the inferred relationships between the MWTs) are noted in the column *Rel*. The column *Anno* represents the annotation result (1: positive; 0: negative).
