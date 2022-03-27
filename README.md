@@ -56,7 +56,7 @@ A more detailed description can be found in the paper mentioned above.
 |------|------|-----|------|
 | Nbr  |  80  |  51 | 100  |
 
-In total, we have 231 quadruplets, which are made up of two SWTs and two MWTs. According to the annotation, there are 181 quadruplets where the inferred relation is preserved between the MWTs. That is, we have a total of 179 analogies. The small size of the dataset can be explained by the fact that many extracted terms are specific, such as *butterfly conservation*. Thus, only a fraction of the pairs has two candidates present in one of the resources.
+In total, we have 231 quadruplets, which are made up of two SWTs and two MWTs. According to the annotation, there are 180 quadruplets where the inferred relation is preserved between the MWTs. That is, we have a total of 180 analogies. The small size of the dataset can be explained by the fact that many extracted terms are specific, such as *butterfly conservation*. Thus, only a fraction of the pairs has two candidates present in one of the resources.
 
 Here is a sample of the dataset:
 
