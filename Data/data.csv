@@ -4,65 +4,65 @@ agricole,piscicole,gestion agricole,gestion piscicole,ANTI,1
 agricole,piscicole,production agricole,production piscicole,ANTI,1
 alternatif,continu,courant alternatif,courant continu,ANTI,1
 alternatif,continu,courant alternatif,courant continu,ANTI,1
-animal,végétal,patrimoine animal,patrimoine végétal,ANTI,1
-animal,végétal,règne animal,règne végétal,ANTI,1
+animal,vÃ©gÃ©tal,patrimoine animal,patrimoine vÃ©gÃ©tal,ANTI,1
+animal,vÃ©gÃ©tal,rÃ¨gne animal,rÃ¨gne vÃ©gÃ©tal,ANTI,1
 augmentation,baisse,augmentation du tarif,baisse du tarif,ANTI,1
 augmentation,diminution,augmentation de le population,diminution de le population,ANTI,1
 augmentation,diminution,augmentation du effectif,diminution du effectif,ANTI,1
 augmentation,diminution,augmentation du trafic,diminution du trafic,ANTI,1
-augmentation,diminution,augmentation de le biodiversité,diminution de le biodiversité,ANTI,1
-baisse,élévation,baisse de le température,élévation de le température,ANTI,1
+augmentation,diminution,augmentation de le biodiversitÃ©,diminution de le biodiversitÃ©,ANTI,1
+baisse,Ã©lÃ©vation,baisse de le tempÃ©rature,Ã©lÃ©vation de le tempÃ©rature,ANTI,1
 chaud,froid,air chaud,air froid,ANTI,1
 chaud,froid,temps chaud,temps froid,ANTI,1
 collectif,individuel,assainissement collectif,assainissement individuel,ANTI,1
-consommation,alimentation,consommation électrique,alimentation électrique,ANTI,1
+consommation,alimentation,consommation Ã©lectrique,alimentation Ã©lectrique,ANTI,1
 consommation,alimentation,consommation en eau,alimentation en eau,ANTI,1
-consommation,alimentation,consommation en électricité,alimentation en électricité,ANTI,1
-consommation,alimentation,consommation en énergie,alimentation en énergie,ANTI,1
+consommation,alimentation,consommation en Ã©lectricitÃ©,alimentation en Ã©lectricitÃ©,ANTI,1
+consommation,alimentation,consommation en Ã©nergie,alimentation en Ã©nergie,ANTI,1
 consommation,alimentation,consommation humain,alimentation humain,ANTI,1
-croissance,décroissance,croissance démographique,décroissance démographique,ANTI,1
+croissance,dÃ©croissance,croissance dÃ©mographique,dÃ©croissance dÃ©mographique,ANTI,1
 croissance,diminution,croissance de le population,diminution de le population,ANTI,1
-décharge,recharge,zone de décharge,zone de recharge,ANTI,1
-terrestre,aquatique,écologie terrestre,écologie aquatique,ANTI,1
+dÃ©charge,recharge,zone de dÃ©charge,zone de recharge,ANTI,1
+terrestre,aquatique,Ã©cologie terrestre,Ã©cologie aquatique,ANTI,1
 faune,flore,conservation de le faune,conservation de le flore,ANTI,1
-faune,flore,étude de le faune,étude de le flore,ANTI,1
+faune,flore,Ã©tude de le faune,Ã©tude de le flore,ANTI,1
 faune,flore,faune aquatique,flore aquatique,ANTI,1
-faune,flore,préservation de le faune,préservation de le flore,ANTI,1
+faune,flore,prÃ©servation de le faune,prÃ©servation de le flore,ANTI,1
 faune,flore,protection de le faune,protection de le flore,ANTI,1
 faune,flore,protection faune,protection de le flore,ANTI,1
-global,local,réchauffement global,réchauffement local,ANTI,1
-global,régional,environnement global,environnement régional,ANTI,1
-global,régional,réseau global,réseau régional,ANTI,1
+global,local,rÃ©chauffement global,rÃ©chauffement local,ANTI,1
+global,rÃ©gional,environnement global,environnement rÃ©gional,ANTI,1
+global,rÃ©gional,rÃ©seau global,rÃ©seau rÃ©gional,ANTI,1
 humain,naturel,capital humain,capital naturel,ANTI,1
 humain,naturel,environnement humain,environnement naturel,ANTI,1
 humide,sec,climat humide,climat sec,ANTI,1
 industriel,naturel,capitalisme industriel,capitalisme naturel,ANTI,1
-inondation,sécheresse,risque inondation,risque de sécheresse,ANTI,1
+inondation,sÃ©cheresse,risque inondation,risque de sÃ©cheresse,ANTI,1
 local,mondial,climat local,climat mondial,ANTI,1
-local,mondial,réchauffement local,réchauffement mondial,ANTI,1
-local,planétaire,climat local,climat planétaire,ANTI,1
-local,planétaire,réchauffement local,réchauffement planétaire,ANTI,1
+local,mondial,rÃ©chauffement local,rÃ©chauffement mondial,ANTI,1
+local,planÃ©taire,climat local,climat planÃ©taire,ANTI,1
+local,planÃ©taire,rÃ©chauffement local,rÃ©chauffement planÃ©taire,ANTI,1
 mer,terre,surface de le mer,surface de le terre,ANTI,1
-mer,terre,température de le mer,température sur terre,ANTI,1
-planétaire,régional,climat planétaire,climat régional,ANTI,1
-planétaire,régional,réseau planétaire,réseau régional,ANTI,1
+mer,terre,tempÃ©rature de le mer,tempÃ©rature sur terre,ANTI,1
+planÃ©taire,rÃ©gional,climat planÃ©taire,climat rÃ©gional,ANTI,1
+planÃ©taire,rÃ©gional,rÃ©seau planÃ©taire,rÃ©seau rÃ©gional,ANTI,1
 polaire,tropical,climat polaire,climat tropical,ANTI,1
-pollution,dépollution,pollution du eau,dépollution du eau,ANTI,1
-pollution,dépollution,pollution du sol,dépollution du sol,ANTI,1
-récupération,élimination,récupération du déchet,élimination du déchet,ANTI,1
-refroidissement,réchauffement,refroidissement climatique,réchauffement climatique,ANTI,1
-refroidissement,réchauffement,refroidissement de le surface,réchauffement de le surface,ANTI,1
-refroidissement,réchauffement,refroidissement local,réchauffement local,ANTI,1
-régional,mondial,climat régional,climat mondial,ANTI,1
-régional,mondial,réseau régional,réseau mondial,ANTI,1
+pollution,dÃ©pollution,pollution du eau,dÃ©pollution du eau,ANTI,1
+pollution,dÃ©pollution,pollution du sol,dÃ©pollution du sol,ANTI,1
+rÃ©cupÃ©ration,Ã©limination,rÃ©cupÃ©ration du dÃ©chet,Ã©limination du dÃ©chet,ANTI,1
+refroidissement,rÃ©chauffement,refroidissement climatique,rÃ©chauffement climatique,ANTI,1
+refroidissement,rÃ©chauffement,refroidissement de le surface,rÃ©chauffement de le surface,ANTI,1
+refroidissement,rÃ©chauffement,refroidissement local,rÃ©chauffement local,ANTI,1
+rÃ©gional,mondial,climat rÃ©gional,climat mondial,ANTI,1
+rÃ©gional,mondial,rÃ©seau rÃ©gional,rÃ©seau mondial,ANTI,1
 terrestre,aquatique,faune terrestre,faune aquatique,ANTI,1
 terrestre,aquatique,flore terrestre,flore aquatique,ANTI,1
-terrestre,aquatique,végétation terrestre,végétation aquatique,ANTI,1
+terrestre,aquatique,vÃ©gÃ©tation terrestre,vÃ©gÃ©tation aquatique,ANTI,1
 terrestre,marin,domaine terrestre,domaine marin,ANTI,1
 terrestre,marin,environnement terrestre,environnement marin,ANTI,1
 terrestre,marin,milieu terrestre,milieu marin,ANTI,1
-urbain,rural,aménagement urbain,aménagement rural,ANTI,1
-urbain,rural,développement urbain,développement rural,ANTI,1
+urbain,rural,amÃ©nagement urbain,amÃ©nagement rural,ANTI,1
+urbain,rural,dÃ©veloppement urbain,dÃ©veloppement rural,ANTI,1
 urbain,rural,environnement urbain,environnement rural,ANTI,1
 urbain,rural,habitat urbain,habitat rural,ANTI,1
 urbain,rural,milieu urbain,milieu rural,ANTI,1
@@ -71,162 +71,162 @@ urbain,rural,tissu urbain,tissu rural,ANTI,1
 agriculture,culture,agriculture biologique,culture biologique,HYP,1
 agriculture,culture,agriculture conventionnel,culture conventionnel,HYP,1
 agriculture,culture,agriculture durable,culture durable,HYP,1
-agriculture,culture,agriculture écologique,culture écologique,HYP,1
+agriculture,culture,agriculture Ã©cologique,culture Ã©cologique,HYP,1
 agriculture,culture,agriculture extensif,culture extensif,HYP,1
 agriculture,culture,agriculture intensif,culture intensif,HYP,1
-agriculture,élevage,agriculture de montagne,élevage de montagne,HYP,1
+agriculture,Ã©levage,agriculture de montagne,Ã©levage de montagne,HYP,1
 combustible,biomasse,gestion du combustible,gestion de le biomasse,HYP,0
 combustible,charbon,combustible propre,charbon propre,HYP,1
 combustible,gaz,stockage de combustible,stockage de gaz,HYP,1
-combustible,pétrole,gaz combustible,gaz de pétrole,HYP,1
+combustible,pÃ©trole,gaz combustible,gaz de pÃ©trole,HYP,1
 consommation,surconsommation,consommation de carburant,surconsommation de carburant,HYP,1
 consommation,surconsommation,consommation de viande,surconsommation de viande,HYP,1
 consommation,surconsommation,consommation du ressource,surconsommation du ressource,HYP,1
-diversité,biodiversité,perte de diversité,perte de biodiversité,HYP,1
+diversitÃ©,biodiversitÃ©,perte de diversitÃ©,perte de biodiversitÃ©,HYP,1
 exploitation,surexploitation,exploitation du bois,surexploitation du bois,HYP,1
-exploitation,surexploitation,exploitation du forêt,surexploitation du forêt,HYP,1
+exploitation,surexploitation,exploitation du forÃªt,surexploitation du forÃªt,HYP,1
 exploitation,surexploitation,exploitation du ressource,surexploitation du ressource,HYP,1
 exploitation,surexploitation,exploitation du sol,surexploitation du sol,HYP,1
 exploitation,surexploitation,exploitation forestier,surexploitation forestier,HYP,1
 exploitation,surexploitation,exploitation minier,surexploitation minier,HYP,1
-gaz,méthane,production de gaz,production de méthane,HYP,1
-gaz,ozone,couche de gaz,couche à ozone,HYP,1
-réservoir,puits,réservoir de carbone,puits de carbone,HYP,1
-réservoir,puits,réservoir de carbone,puits à carbone,HYP,1
-réservoir,puits,réservoir de co2,puits de co2,HYP,1
-réservoir,puits,réservoir de pétrole,puits de pétrole,HYP,1
+gaz,mÃ©thane,production de gaz,production de mÃ©thane,HYP,1
+gaz,ozone,couche de gaz,couche Ã  ozone,HYP,1
+rÃ©servoir,puits,rÃ©servoir de carbone,puits de carbone,HYP,1
+rÃ©servoir,puits,rÃ©servoir de carbone,puits Ã  carbone,HYP,1
+rÃ©servoir,puits,rÃ©servoir de co2,puits de co2,HYP,1
+rÃ©servoir,puits,rÃ©servoir de pÃ©trole,puits de pÃ©trole,HYP,1
 acidification,contamination,acidification du sol,contamination du sol,QSYN,1
-atmosphérique,stratosphérique,ozone atmosphérique,ozone stratosphérique,QSYN,1
+atmosphÃ©rique,stratosphÃ©rique,ozone atmosphÃ©rique,ozone stratosphÃ©rique,QSYN,1
 augmentation,croissance,augmentation de le population,croissance de le population,QSYN,1
 augmentation,hausse,augmentation du tarif,hausse du tarif,QSYN,1
-chaleur,énergie,chaleur nucléaire,énergie nucléaire,QSYN,1
-chaleur,énergie,chaleur utile,énergie utile,QSYN,1
-changement,réchauffement,changement du climat,réchauffement du climat,QSYN,1
-changement,réchauffement,changement climatique,réchauffement climatique,QSYN,1
-charbon,gaz,centrale à charbon,centrale à gaz,QSYN,1
-charbon,pétrole,extraction du charbon,extraction de pétrole,QSYN,1
+chaleur,Ã©nergie,chaleur nuclÃ©aire,Ã©nergie nuclÃ©aire,QSYN,1
+chaleur,Ã©nergie,chaleur utile,Ã©nergie utile,QSYN,1
+changement,rÃ©chauffement,changement du climat,rÃ©chauffement du climat,QSYN,1
+changement,rÃ©chauffement,changement climatique,rÃ©chauffement climatique,QSYN,1
+charbon,gaz,centrale Ã  charbon,centrale Ã  gaz,QSYN,1
+charbon,pÃ©trole,extraction du charbon,extraction de pÃ©trole,QSYN,1
 concentration,teneur,concentration maximal,teneur maximal,QSYN,1
-conditionnement,traitement,conditionnement du déchet,traitement du déchet,QSYN,1
+conditionnement,traitement,conditionnement du dÃ©chet,traitement du dÃ©chet,QSYN,1
 conservation,protection,conservation de le nature,protection de le nature,QSYN,1
-conservation,protection,conservation du espèce,protection du espèce,QSYN,1
+conservation,protection,conservation du espÃ¨ce,protection du espÃ¨ce,QSYN,1
 conservation,protection,conservation du site,protection du site,QSYN,1
 conservation,protection,conservation du sol,protection du sol,QSYN,1
-contamination,pollution,contamination bactériologique,pollution bactériologique,QSYN,1
+contamination,pollution,contamination bactÃ©riologique,pollution bactÃ©riologique,QSYN,1
 contamination,pollution,contamination chimique,pollution chimique,QSYN,1
 contamination,pollution,contamination du sol,pollution du sol,QSYN,1
-contamination,pollution,contamination génétique,pollution génétique,QSYN,1
+contamination,pollution,contamination gÃ©nÃ©tique,pollution gÃ©nÃ©tique,QSYN,1
 contamination,pollution,contamination radioactif,pollution radioactif,QSYN,1
 conversion,transformation,taux de conversion,taux de transformation,QSYN,1
 croissance,accroissement,croissance de le population,accroissement de le population,QSYN,1
-croissance,accroissement,croissance démographique,accroissement démographique,QSYN,1
-croissance,développement,croissance économique,développement économique,QSYN,1
-croissance,développement,processus de croissance,processus de développement,QSYN,1
-croissance,développement,stade de croissance,stade de développement,QSYN,1
-croûte,manteau,croûte terrestre,manteau terrestre,QSYN,1
-dégradation,érosion,dégradation du sol,érosion du sol,QSYN,1
-déplacement,parcours,temps de déplacement,temps de parcours,QSYN,1
-déplacement,trajet,temps de déplacement,temps de trajet,QSYN,1
-désertification,sécheresse,lutte contre le désertification,lutte contre le sécheresse,QSYN,1
-déversement,rejet,autorisation de déversement,autorisation de rejet,QSYN,1
-électricité,énergie,approvisionnement en électricité,approvisionnement en énergie,QSYN,1
-électricité,énergie,électricité éolien,énergie éolien,QSYN,1
-électricité,énergie,électricité photovoltaïque,énergie photovoltaïque,QSYN,1
-électricité,énergie,électricité vert,énergie vert,QSYN,1
-empreinte,impact,empreinte écologique,impact écologique,QSYN,1
-enfouissement,élimination,enfouissement du déchet,élimination du déchet,QSYN,1
-environnement,écosystème,environnement urbain,écosystème urbain,QSYN,1
+croissance,accroissement,croissance dÃ©mographique,accroissement dÃ©mographique,QSYN,1
+croissance,dÃ©veloppement,croissance Ã©conomique,dÃ©veloppement Ã©conomique,QSYN,1
+croissance,dÃ©veloppement,processus de croissance,processus de dÃ©veloppement,QSYN,1
+croissance,dÃ©veloppement,stade de croissance,stade de dÃ©veloppement,QSYN,1
+croÃ»te,manteau,croÃ»te terrestre,manteau terrestre,QSYN,1
+dÃ©gradation,Ã©rosion,dÃ©gradation du sol,Ã©rosion du sol,QSYN,1
+dÃ©placement,parcours,temps de dÃ©placement,temps de parcours,QSYN,1
+dÃ©placement,trajet,temps de dÃ©placement,temps de trajet,QSYN,1
+dÃ©sertification,sÃ©cheresse,lutte contre le dÃ©sertification,lutte contre le sÃ©cheresse,QSYN,1
+dÃ©versement,rejet,autorisation de dÃ©versement,autorisation de rejet,QSYN,1
+Ã©lectricitÃ©,Ã©nergie,approvisionnement en Ã©lectricitÃ©,approvisionnement en Ã©nergie,QSYN,1
+Ã©lectricitÃ©,Ã©nergie,Ã©lectricitÃ© Ã©olien,Ã©nergie Ã©olien,QSYN,1
+Ã©lectricitÃ©,Ã©nergie,Ã©lectricitÃ© photovoltaÃ¯que,Ã©nergie photovoltaÃ¯que,QSYN,1
+Ã©lectricitÃ©,Ã©nergie,Ã©lectricitÃ© vert,Ã©nergie vert,QSYN,1
+empreinte,impact,empreinte Ã©cologique,impact Ã©cologique,QSYN,1
+enfouissement,Ã©limination,enfouissement du dÃ©chet,Ã©limination du dÃ©chet,QSYN,1
+environnement,Ã©cosystÃ¨me,environnement urbain,Ã©cosystÃ¨me urbain,QSYN,1
 environnement,milieu,environnement de travail,milieu de travail,QSYN,1
 environnement,milieu,environnement physique,milieu physique,QSYN,1
-environnement,milieu,environnement récepteur,milieu récepteur,QSYN,1
-environnemental,écologique,bilan environnemental,bilan écologique,QSYN,1
-environnemental,écologique,impact environnemental,impact écologique,QSYN,1
-ferroviaire,ferré,réseau ferroviaire,réseau ferré,QSYN,1
+environnement,milieu,environnement rÃ©cepteur,milieu rÃ©cepteur,QSYN,1
+environnemental,Ã©cologique,bilan environnemental,bilan Ã©cologique,QSYN,1
+environnemental,Ã©cologique,impact environnemental,impact Ã©cologique,QSYN,1
+ferroviaire,ferrÃ©,rÃ©seau ferroviaire,rÃ©seau ferrÃ©,QSYN,1
 ferroviaire,routier,fret ferroviaire,fret routier,QSYN,1
-ferroviaire,routier,réseau ferroviaire,réseau routier,QSYN,1
+ferroviaire,routier,rÃ©seau ferroviaire,rÃ©seau routier,QSYN,1
 ferroviaire,routier,trafic ferroviaire,trafic routier,QSYN,1
 ferroviaire,routier,transport ferroviaire,transport routier,QSYN,1
-fixation,séquestration,fixation du carbone,séquestration du carbone,QSYN,1
+fixation,sÃ©questration,fixation du carbone,sÃ©questration du carbone,QSYN,1
 frais,froid,air frais,air froid,QSYN,1
-gaz,pétrole,industrie du gaz,industrie du pétrole,QSYN,1
-glace,neige,couverture de neige,manteau de neige,QSYN,1
-global,mondial,modèle global,modèle mondial,QSYN,1
-global,mondial,réchauffement global,réchauffement mondial,QSYN,1
-global,mondial,réseau global,réseau mondial,QSYN,1
-global,planétaire,réchauffement global,réchauffement planétaire,QSYN,1
-hydroélectrique,électrique,énergie hydroélectrique,énergie électrique,QSYN,1
-local,régional,développement local,développement régional,QSYN,1
-matière,substance,matière actif,substance actif,QSYN,1
-mondial,planétaire,réchauffement mondial,réchauffement planétaire,QSYN,1
+gaz,pÃ©trole,industrie du gaz,industrie du pÃ©trole,QSYN,1
+couverture,manteau,couverture de neige,manteau de neige,QSYN,1
+global,mondial,modÃ¨le global,modÃ¨le mondial,QSYN,1
+global,mondial,rÃ©chauffement global,rÃ©chauffement mondial,QSYN,1
+global,mondial,rÃ©seau global,rÃ©seau mondial,QSYN,1
+global,planÃ©taire,rÃ©chauffement global,rÃ©chauffement planÃ©taire,QSYN,1
+hydroÃ©lectrique,Ã©lectrique,Ã©nergie hydroÃ©lectrique,Ã©nergie Ã©lectrique,QSYN,1
+local,rÃ©gional,dÃ©veloppement local,dÃ©veloppement rÃ©gional,QSYN,1
+matiÃ¨re,substance,matiÃ¨re actif,substance actif,QSYN,1
+mondial,planÃ©taire,rÃ©chauffement mondial,rÃ©chauffement planÃ©taire,QSYN,1
 organique,biologique,agriculture organique,agriculture biologique,QSYN,1
 organique,biologique,pollution organique,pollution biologique,QSYN,1
-photovoltaïque,solaire,énergie photovoltaïque,énergie solaire,QSYN,1
-protection,conservation,protection du forêt,conservation du forêt,QSYN,1
-protection,préservation,protection de le nature,préservation de le nature,QSYN,1
-protection,préservation,protection du forêt,préservation du forêt,QSYN,1
-protection,préservation,protection du végétal,préservation du végétal,QSYN,1
-recyclage,récupération,taux de recyclage,taux de récupération,QSYN,1
-recyclage,valorisation,recyclage du déchet,valorisation du déchet,QSYN,1
-recyclage,valorisation,recyclage matière,valorisation matière,QSYN,1
+photovoltaÃ¯que,solaire,Ã©nergie photovoltaÃ¯que,Ã©nergie solaire,QSYN,1
+protection,conservation,protection du forÃªt,conservation du forÃªt,QSYN,1
+protection,prÃ©servation,protection de le nature,prÃ©servation de le nature,QSYN,1
+protection,prÃ©servation,protection du forÃªt,prÃ©servation du forÃªt,QSYN,1
+protection,prÃ©servation,protection du vÃ©gÃ©tal,prÃ©servation du vÃ©gÃ©tal,QSYN,1
+recyclage,rÃ©cupÃ©ration,taux de recyclage,taux de rÃ©cupÃ©ration,QSYN,1
+recyclage,valorisation,recyclage du dÃ©chet,valorisation du dÃ©chet,QSYN,1
+recyclage,valorisation,recyclage matiÃ¨re,valorisation matiÃ¨re,QSYN,1
 recyclage,valorisation,taux de recyclage,taux de valorisation,QSYN,1
-région,zone,région arctique,zone arctique,QSYN,1
-région,zone,région métropolitain,zone métropolitain,QSYN,1
-réutilisation,recyclage,réutilisation du emballage,recyclage du emballage,QSYN,1
+rÃ©gion,zone,rÃ©gion arctique,zone arctique,QSYN,1
+rÃ©gion,zone,rÃ©gion mÃ©tropolitain,zone mÃ©tropolitain,QSYN,1
+rÃ©utilisation,recyclage,rÃ©utilisation du emballage,recyclage du emballage,QSYN,1
 sol,soussol,sol marin,sous-sol marin,QSYN,1
 solaire,thermique,rayonnement solaire,rayonnement thermique,QSYN,1
-stockage,séquestration,stockage géologique,séquestration géologique,QSYN,1
+stockage,sÃ©questration,stockage gÃ©ologique,sÃ©questration gÃ©ologique,QSYN,1
 transformation,traitement,produit de transformation,produit de traitement,QSYN,1
-transformation,traitement,transformation du déchet,traitement du déchet,QSYN,1
+transformation,traitement,transformation du dÃ©chet,traitement du dÃ©chet,QSYN,1
 tropical,subtropical,climat tropical,climat subtropical,QSYN,1
-vert,écologique,label vert,label écologique,QSYN,1
-vert,écologique,tourisme vert,tourisme écologique,QSYN,1
+vert,Ã©cologique,label vert,label Ã©cologique,QSYN,1
+vert,Ã©cologique,tourisme vert,tourisme Ã©cologique,QSYN,1
 vie,vivant,science de le vie,science du vivant,QSYN,1
 consommation,alimentation,consommation animal,alimentation animal,ANTI,0
 consommation,alimentation,eau de consommation,alimentation en eau,ANTI,0
 croissance,diminution,vitesse de croissance,diminution de le vitesse,ANTI,0
-déplacement,transport,temps de déplacement,temps de transport,ANTI,0
-eau,air,eau atmosphérique,air atmosphérique,ANTI,0
+dÃ©placement,transport,temps de dÃ©placement,temps de transport,ANTI,0
+eau,air,eau atmosphÃ©rique,air atmosphÃ©rique,ANTI,0
 eau,air,eau libre,air libre,ANTI,0
 eau,terre,eau en surface,surface de le terre,ANTI,0
 eau,terre,eau rouge,terre rouge,ANTI,0
 eau,terre,ressource en eau,ressource de le terre,ANTI,0
 mer,terre,ressource de le mer,ressource de le terre,ANTI,0
 mer,terre,science de le mer,science de le terre,ANTI,0
-activité,agriculture,activité biologique,agriculture biologique,HYP,0
-activité,culture,activité biologique,culture biologique,HYP,0
-agriculture,culture,agriculture biologique,élevage biologique,HYP,0
-agriculture,culture,agriculture itinérant,culture itinérant,HYP,0
-agriculture,élevage,agriculture durable,élevage durable,HYP,0
+activitÃ©,agriculture,activitÃ© biologique,agriculture biologique,HYP,0
+activitÃ©,culture,activitÃ© biologique,culture biologique,HYP,0
+agriculture,culture,agriculture biologique,Ã©levage biologique,HYP,0
+agriculture,culture,agriculture itinÃ©rant,culture itinÃ©rant,HYP,0
+agriculture,Ã©levage,agriculture durable,Ã©levage durable,HYP,0
 combustible,biomasse,stockage de combustible,stockage de biomasse,HYP,0
-combustible,carburant,quantité de combustible,quantité de carburant,HYP,0
-combustible,pétrole,combustible de remplacement,remplacement du pétrole,HYP,0
-diversité,biodiversité,gestion de le diversité,gestion de le biodiversité,HYP,0
-diversité,biodiversité,diversité microbien,biodiversité microbien,HYP,0
-gaz,carbone,puits de gaz,puits à carbone,HYP,0
+combustible,carburant,quantitÃ© de combustible,quantitÃ© de carburant,HYP,0
+combustible,pÃ©trole,combustible de remplacement,remplacement du pÃ©trole,HYP,0
+diversitÃ©,biodiversitÃ©,gestion de le diversitÃ©,gestion de le biodiversitÃ©,HYP,0
+diversitÃ©,biodiversitÃ©,diversitÃ© microbien,biodiversitÃ© microbien,HYP,0
+gaz,carbone,puits de gaz,puits Ã  carbone,HYP,0
 gaz,carbone,puits de gaz,puits de carbone,HYP,0
-gaz,carbone,séquestration du gaz,séquestration du carbone,HYP,0
+gaz,carbone,sÃ©questration du gaz,sÃ©questration du carbone,HYP,0
 gaz,carbone,stock de gaz,stock de carbone,HYP,0
 gaz,carbone,stockage de gaz,stockage du carbone,HYP,0
 gaz,carbone,teneur en gaz,teneur en carbone,HYP,0
 gaz,carbone,hydrate de gaz,hydrate de carbone,HYP,0
 infrastructure,ligne,infrastructure vert,ligne vert,HYP,0
-planète,terre,climat de le planète,climat de le terre,HYP,0
-planète,terre,écosystème de le planète,écosystème sur terre,HYP,0
-planète,terre,planète vivant,terre vivant,HYP,0
-planète,terre,population de le planète,population de le terre,HYP,0
-planète,terre,réchauffement de le planète,réchauffement de le terre,HYP,0
+planÃ¨te,terre,climat de le planÃ¨te,climat de le terre,HYP,0
+planÃ¨te,terre,Ã©cosystÃ¨me de le planÃ¨te,Ã©cosystÃ¨me sur terre,HYP,0
+planÃ¨te,terre,planÃ¨te vivant,terre vivant,HYP,0
+planÃ¨te,terre,population de le planÃ¨te,population de le terre,HYP,0
+planÃ¨te,terre,rÃ©chauffement de le planÃ¨te,rÃ©chauffement de le terre,HYP,0
 route,autoroute,route maritime,autoroute maritime,HYP,0
 changement,refroidissement,changement climatique,refroidissement climatique,QSYN,0
-cinétique,électrique,énergie cinétique,énergie électrique,QSYN,0
-communauté,population,communauté urbain,population urbain,QSYN,0
-conservation,préservation,conservation de le nature,préservation de le nature,QSYN,0
-dégradation,catastrophe,dégradation écologique,catastrophe écologique,QSYN,0
-dégradation,détérioration,dégradation du sol,détérioration du sol,QSYN,0
+cinÃ©tique,Ã©lectrique,Ã©nergie cinÃ©tique,Ã©nergie Ã©lectrique,QSYN,0
+communautÃ©,population,communautÃ© urbain,population urbain,QSYN,0
+conservation,prÃ©servation,conservation de le nature,prÃ©servation de le nature,QSYN,0
+dÃ©gradation,catastrophe,dÃ©gradation Ã©cologique,catastrophe Ã©cologique,QSYN,0
+dÃ©gradation,dÃ©tÃ©rioration,dÃ©gradation du sol,dÃ©tÃ©rioration du sol,QSYN,0
 environnement,milieu,environnement rural,milieu rural,QSYN,0
 environnement,milieu,environnement urbain,milieu urbain,QSYN,0
 glace,neige,couverture de glace,couverture de neige,QSYN,0
 glace,neige,cristaux de glace,cristaux de neige,QSYN,0
 habitat,milieu,habitat rural,milieu rural,QSYN,0
 habitat,milieu,habitat urbain,milieu urbain,QSYN,0
-recyclage,récupération,recyclage du matériaux,matériaux de récupération,QSYN,0
-stockage,charge,capacité de stockage,capacité de charge,QSYN,0
-variabilité,changement,variabilité climatique,changement climatique,QSYN,0
+recyclage,rÃ©cupÃ©ration,recyclage du matÃ©riaux,matÃ©riaux de rÃ©cupÃ©ration,QSYN,0
+stockage,charge,capacitÃ© de stockage,capacitÃ© de charge,QSYN,0
+variabilitÃ©,changement,variabilitÃ© climatique,changement climatique,QSYN,0
