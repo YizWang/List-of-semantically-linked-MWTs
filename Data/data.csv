@@ -37,7 +37,7 @@ humain,naturel,capital humain,capital naturel,ANTI,1
 humain,naturel,environnement humain,environnement naturel,ANTI,1
 humide,sec,climat humide,climat sec,ANTI,1
 industriel,naturel,capitalisme industriel,capitalisme naturel,ANTI,1
-inondation,sécheresse,risque inondation,risque de sécheresse,ANTI,1
+inondation,sécheresse,risque d'inondation,risque de sécheresse,ANTI,1
 local,mondial,climat local,climat mondial,ANTI,1
 local,mondial,réchauffement local,réchauffement mondial,ANTI,1
 local,planétaire,climat local,climat planétaire,ANTI,1
